@@ -1,4 +1,4 @@
-Imagina-se que você está desenvolvendo um software de controle de funcionários para uma empresa de RH. Este software deve ter o seguinte menu e opções:
+Código para controle de funcionários para uma empresa de RH. 
 Cadastrar Funcionário
 Consultar Funcionários(s)
 Consultar Todas as Funcionários
